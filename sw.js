@@ -1,4 +1,4 @@
-const CACHE_NAME = 'calc-v1';
+const CACHE_NAME = 'sin-calc-v1';
 const ASSETS = ['./', './index.html', './manifest.json'];
 
 self.addEventListener('install', (e) => {
