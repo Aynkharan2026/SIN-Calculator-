@@ -1,13 +1,13 @@
 {
-  "name": "Calculator",
-  "short_name": "Calculator",
+  "name": "Canadian SIN Calculator",
+  "short_name": "SIN Calc",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#121214",
   "theme_color": "#121214",
   "icons": [
     {
-      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='110' fill='%231f1f23'/><rect x='110' y='235' width='292' height='42' rx='12' fill='%23ff9f0a'/><rect x='235' y='110' width='42' height='292' rx='12' fill='%23ff9f0a'/></svg>",
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='110' fill='%231f1f23'/><text x='50%25' y='55%25' text-anchor='middle' dominant-baseline='central' fill='%234ade80' font-size='180' font-family='sans-serif' font-weight='bold'>SIN</text></svg>",
       "sizes": "512x512",
       "type": "image/svg+xml",
       "purpose": "any maskable"
